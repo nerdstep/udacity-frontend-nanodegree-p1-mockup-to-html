@@ -1,0 +1,49 @@
+body {
+  color: #666;
+  font-family: Verdana, sans-serif;
+  margin-top: 25px;
+}
+
+header h1 {
+  text-align: center;
+  font-size: 48px;
+  margin-bottom: 30px;
+}
+
+.subtitle {
+  color: #f07c17;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 32px;
+}
+
+article .subtitle {
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.box {
+  border: 1px solid #ccc;
+  padding: 10px 30px 32px 30px;
+}
+
+.features {
+  padding-top: 6px;
+  margin-bottom: 0;
+}
+
+.features li {
+  font-size: 16px;
+  line-height: 1em;
+  margin-bottom: 16px;
+}
+
+aside img {
+  margin-bottom: 30px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 32px;
+  margin-bottom: 10px;
+}
